@@ -39,7 +39,7 @@ export default function Home() {
       </section>
 
       {/* Speciality Section */}
-      <section className="py-12">
+      <section className="py-12 mt-8">
         <div className="text-center mb-8">
           <h2 className="text-2xl font-bold text-slate-800">Find by Speciality</h2>
           <p className="text-slate-400 text-xs sm:text-sm mt-1.5 max-w-md mx-auto">
