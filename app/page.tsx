@@ -31,7 +31,7 @@ export default function Home() {
             src="/home-doc.svg"
             alt="Doctors Banner Illustration"
             width={800}
-            height={800}
+            height={850}
             priority
             className="w-auto h-auto object-contain"
           />
