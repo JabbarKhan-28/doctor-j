@@ -172,10 +172,9 @@ export default function Home() {
           <Image
             src="/appointment-doc-img.svg"
             alt="Doctor Illustration"
-            width={400}
-            height={400}
-            priority
-            className="w-80 sm:w-96 h-auto object-contain max-h-90"
+            width={600}
+            height={600}
+            className="w-auto h-auto"
           />
         </div>
       </section>
